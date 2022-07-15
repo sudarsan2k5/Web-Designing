@@ -1,5 +1,4 @@
-<img src="/imgs/HTML.png" alt="HTML Logo" style="width:200px;"/>
-<img src="/imgs/HTML.png" alt="drawing" width="200"/>
+<img src="/imgs/HTML.png" alt="HTML Logo" width="40%"/>
 
 # My Web development journey.
 
