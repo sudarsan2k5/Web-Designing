@@ -1,4 +1,4 @@
-<img src="/imgs/HTML.png" alt="HTML Logo" width="40%"/>
+<img src="/imgs/HTML.png" alt="HTML Logo" width="70%"/>
 
 # My Web development journey.
 
