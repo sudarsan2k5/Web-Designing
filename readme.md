@@ -1,4 +1,6 @@
-![HTML Logo](/imgs/HTML.png)
+<img src="/imgs/HTML.png" alt="HTML Logo" style="width:200px;"/>
+<img src="/imgs/HTML.png" alt="drawing" width="200"/>
+
 # My Web development journey.
 
 
